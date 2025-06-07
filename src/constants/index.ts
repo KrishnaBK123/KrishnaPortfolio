@@ -20,11 +20,8 @@ import {
   angular,
   git,
   figma,
-
-  
   starbucks,
   tesla,
-  
   carrent,
   jobit,
   tripguide,
